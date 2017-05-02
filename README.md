@@ -10,7 +10,9 @@ A minimalistic ToDo app with minimal features, no bloat, just todos.
 <img src="/screenshots/main_full_dark.png" height="400px"/>
 <img src="/screenshots/add_todo_dark.png" height="400px"/>
 <img src="screenshots/screenshot_reminder_date.png" height="400px"/>
+<img scr="/screenshots/todo_date_light.png" height="400px"/>
 <img src="screenshots/screenshot_reminder_time.png" height="400px"/>
+<img scr="/screenshots/todo_time_light.png" height="400px"/>
 
 
 
