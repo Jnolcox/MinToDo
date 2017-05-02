@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1069915948612",
+    "project_id": "firebase-mintodo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069915948612:android:e2024fb66e1873ca",
+        "android_client_info": {
+          "package_name": "com.johnnolcox.mintodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvAxcgFSIrKWgTCGxawYioGzpdDiIk0bE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-98226273-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
