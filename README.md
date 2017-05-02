@@ -4,7 +4,7 @@
 A minimalistic ToDo app with minimal features, no bloat, just todos.
 
 
-# Screenshots <br>
+#Screenshots <br>
 <img src="/screenshots/main_empty_light.png" height="400px"/>
 <img src="/screenshots/main_full_light.png" height="400px"/>
 <img src="/screenshots/main_full_dark.png" height="400px"/>
