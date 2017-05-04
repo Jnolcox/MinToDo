@@ -82,6 +82,11 @@ public class AddToDoActivity extends AppCompatActivity implements  DatePickerDia
         //Main _todo entry type, alternate is above
         setContentView(R.layout.activity_todo_main);
 
+        /*MobileAds.initialize(getApplicationContext(), "ca-app-pub-3336368393559984/1195256759");
+        AdView mAdView = (AdView) findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);*/
+
         //Show an X in place of <-
         final Drawable cross = getResources().getDrawable(R.drawable.ic_clear_white_24dp);
         if(cross !=null){

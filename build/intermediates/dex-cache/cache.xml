@@ -3,6 +3,339 @@
 
     <item
         is-multidex="true"
+        jar="/home/john/.android/build-cache/e8d6edceee9785383b4584d1fe81e2f56582eb29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3543f42b7a4af0d27d7e9c497f013d5f6c0eaf17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/6e4691e8d80d346fac117e65185b53d1e598ef19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb90ed3b08150d902698e1091498760838f48eec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/b1b6456594d6f18753c2ec76515120c36d2d6ef6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd8fa85bba6d4637f1ef5cd902723218e1044696/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/2e8069e76850b49757b2bfbab9f1961352292d1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_646716c95b590259a7be3f3b4b5b5db13d961c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/d912f04334d5bb185d867cc143d23b661d96e967/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e59afc6865c03b095f12e9e13a94109010f7379/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/202867e2ca1b5ce345884bd01e50fd575dda88a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f272f48fb31bdefc755bfc073fe5b4815cd295cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/a286db5267e595257ff66236d7630cf4c97004ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c2f7fbe801553a13821aee6016cf74d1ad16ece/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/7ef183c3b18fb593b5de3332b92754b24048980d/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e69a33bedf39d87113c85af4e8a0fab866f31cc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/MinToDo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0f7b340bafd369e00f9c12979e098ef54c3a14db">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_713a2842568b22fd912ae33a53462279ed736354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/d0f34ba49cc48ec7a08580523a223fdd0a2ddc2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44714bcb1542352e8438d53754ffe2d021dacbda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/f64db45a2d14f9c2b022bdd85c8d68a14cffd1e7/output/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_dc3eee6e11dd0bbc5413ddbbaeebb3f3f5769ecb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/3f39082d3412734d6ac1784e2701eb0d57e1c483/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ca17b15a873b96bf603d06a78c5d9a99ed95e28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/0c1c5148aeff5c1d8604c7d80f2a91904f213512/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7799e68f5c2df7f317d0d0c546c77b446a067635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/d5620e8b402a90d64f5980a700a757b573afe424/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4c8c6842bee459eebb8a4754f7a2ce2dac159d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/6c56e6801380bfe63e9cd541743fde2c11c7a9cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_722034bd4e7c8beae07ce3616030ce2c9e1b78da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/715e7bc65acbd95c7591488b1e05f5747752221b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea9de337c27bfc85b37c26380b8a3fbebd01e3ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/d5620e8b402a90d64f5980a700a757b573afe424/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4c8c6842bee459eebb8a4754f7a2ce2dac159d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/f64db45a2d14f9c2b022bdd85c8d68a14cffd1e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11d972d08b2a962ab05e45d43c82b1abed3f1feb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/7ef183c3b18fb593b5de3332b92754b24048980d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a5e0df142de4a04bd454bb0ef3279b8939e43c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/2f91158a2122e13ccdc805736de4268a129c2c6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2166620a2f9ed649de1cae889fc45de759c33a9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/793859c251d8911790da92a79cd4d86b1bc844c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16d7f219473abfdabbaf029dff535423b3269ab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/d912f04334d5bb185d867cc143d23b661d96e967/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e59afc6865c03b095f12e9e13a94109010f7379/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/MinToDo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f31f0d255f38f54b1bea7c9168ba0e90a2c5bd8">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_713a2842568b22fd912ae33a53462279ed736354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/202867e2ca1b5ce345884bd01e50fd575dda88a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f272f48fb31bdefc755bfc073fe5b4815cd295cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_0aa349311382ea6638b380d6029c74fb8ae2d1b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/7ef183c3b18fb593b5de3332b92754b24048980d/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e69a33bedf39d87113c85af4e8a0fab866f31cc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/d0f34ba49cc48ec7a08580523a223fdd0a2ddc2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44714bcb1542352e8438d53754ffe2d021dacbda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/a286db5267e595257ff66236d7630cf4c97004ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c2f7fbe801553a13821aee6016cf74d1ad16ece/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/7ef183c3b18fb593b5de3332b92754b24048980d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a5e0df142de4a04bd454bb0ef3279b8939e43c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/b1b6456594d6f18753c2ec76515120c36d2d6ef6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd8fa85bba6d4637f1ef5cd902723218e1044696/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/86c2bb80fc1fe5104932d6028c9e44df9ea054ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb9b307c99a3277515d6170aedef7563b22564eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/2e8069e76850b49757b2bfbab9f1961352292d1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_646716c95b590259a7be3f3b4b5b5db13d961c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/fdc4c8251947e92417e32b593d8266afb07db446/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70b1a345824e347a7a3a7e5d24bc24c60edba139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/7c4e781f9cfdf10564ad9b0915f91b8b508f9487/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72f39e83577aaed4a8c7911717e8f76063ba7479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/e8d6edceee9785383b4584d1fe81e2f56582eb29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3543f42b7a4af0d27d7e9c497f013d5f6c0eaf17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/fdc4c8251947e92417e32b593d8266afb07db446/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70b1a345824e347a7a3a7e5d24bc24c60edba139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/86c2bb80fc1fe5104932d6028c9e44df9ea054ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb9b307c99a3277515d6170aedef7563b22564eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/john/MinToDo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +345,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/john/MinToDo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/john/.android/build-cache/6c56e6801380bfe63e9cd541743fde2c11c7a9cb/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="db0bda2e2dd30fae6af6c79a292d5e7154cafbb5">
-        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_713a2842568b22fd912ae33a53462279ed736354/classes.dex" />
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_722034bd4e7c8beae07ce3616030ce2c9e1b78da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/MinToDo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c0042537ef62fd9761472fe3a49710e51eae8060/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/23998c3a9221af6d644bd6424fbb2b602717596c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="/home/john/MinToDo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b987d3feb045d1458b6e06fb1c197cb114ce4680/classes.dex" />
     </item>
 
 </items>
