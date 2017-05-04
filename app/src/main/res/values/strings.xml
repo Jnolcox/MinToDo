@@ -18,7 +18,9 @@
     <string name="night_mode">Night Mode</string>
     <string name="night_mode_on_summary">Night mode is on</string>
     <string name="night_mode_off_summary">Night mode is off</string>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_banner_main">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_banner_settings"> ca-app-pub-3336368393559984/7182914750</string>
+    <string name="ad_banner_addtodo">ca-app-pub-3336368393559984/8659647950</string>
 
 
     <string-array name="snooze_options">
